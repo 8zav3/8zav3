@@ -33,9 +33,9 @@ Building projects, experimenting with new technologies, and turning ideas into c
 
 ## 📊 GitHub Stats
 
-![8zav's GitHub stats](https://github-stats-extended.vercel.app/api?username=8zav3&show_icons=true&theme=dark&hide_title=true)
+![8zav's GitHub stats](https://github-stats-extended.vercel.app/api?username=8zav3&show_icons=true&theme=dark&hide_title=true&cache_seconds=1800)
 
-![Most Used Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=8zav3&layout=compact&theme=dark)
+![Most Used Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=8zav3&layout=compact&theme=dark&cache_seconds=1800)
 
 ------------------------------------------------------------------------
 
